@@ -1,3 +1,4 @@
+![protein-translation](https://user-images.githubusercontent.com/44240533/226493070-7007b465-061c-4953-813c-38421ab383a9.svg)
 # Protein Translation
 
 Welcome to Protein Translation on Exercism's Java Track.
